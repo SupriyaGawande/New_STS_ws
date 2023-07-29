@@ -1,0 +1,4 @@
+server.port=8084
+
+#uri of spring cloud server
+spring.cloud.config.uri=http://localhost:8888

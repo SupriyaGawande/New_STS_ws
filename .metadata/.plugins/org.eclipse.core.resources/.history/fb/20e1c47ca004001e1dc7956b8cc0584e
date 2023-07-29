@@ -1,0 +1,10 @@
+server.port=8086
+
+#uri of spring cloud server
+spring.cloud.config.uri=http://localhost:8888
+
+spring.cloud.config.enabled=false
+
+
+
+#url to check git file-  http://localhost:8888/application_Prod/master
